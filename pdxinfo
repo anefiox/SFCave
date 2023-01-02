@@ -1,0 +1,6 @@
+name=SFCave
+author=Anefiox
+description=SFCave ported from Arduboy
+bundleID=com.anefiox.sfcave
+version=0.0.1
+buildNumber=1
